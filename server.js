@@ -8,7 +8,7 @@ const cookieParser = require('cookie-parser')
  
 
 //setting up your port
-const PORT = process.env.PORT || 8080
+const PORT = process.env.PORT || 8088
 
 //assigning the variable app to express
 const app = express()
